@@ -24,3 +24,5 @@ You can visit the following URL in a browser to get started:
 ```
 http://moodle.domain.com/moodle
 ```
+
+Thanks to [eugeneware](https://github.com/eugeneware) and [ricardoamaro](https://github.com/ricardoamaro) for their Dockerfiles.
